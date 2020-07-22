@@ -1,11 +1,11 @@
 {
   "name": "typedoc-theme-dark",
   "description": "Dark theme for TypeDoc.",
-  "version": "0.0.1",
-  "homepage": "https://github.com/rockerBOO/typedoc-theme-dark",
-  "main": "bin/plugin.js",
+  "version": "0.0.2",
+  "homepage": "https://gitlab.com/rockerBOO/typedoc-theme-dark",
+  "main": "dist/plugin.js",
   "files": [
-    "bin",
+    "dist",
     "LICENSE"
   ],
   "scripts": {
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockerBOO/typedoc-theme-dark.git"
+    "url": "git://gitlab.com/rockerBOO/typedoc-theme-dark.git"
   },
   "bugs": {
-    "url": "https://github.com/rockerBOO/typedoc-theme-dark/issues"
+    "url": "https://gitlab.com/rockerBOO/typedoc-theme-dark/issues"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -47,5 +47,6 @@
     "typescript",
     "documentation",
     "generator"
-  ]
+  ],
+  "author": "Dave Lage"
 }
