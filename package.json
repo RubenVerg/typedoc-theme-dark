@@ -1,7 +1,7 @@
 {
   "name": "typedoc-theme-dark",
   "description": "Dark/light (prefers-color-scheme) theme for TypeDoc.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://gitlab.com/rockerBOO/typedoc-theme-dark",
   "main": "dist/plugin.js",
   "files": [
@@ -46,7 +46,8 @@
   "keywords": [
     "typescript",
     "documentation",
-    "generator"
+    "generator",
+    "typedoc-theme"
   ],
   "author": "Dave Lage"
 }

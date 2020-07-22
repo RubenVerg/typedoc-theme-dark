@@ -7,6 +7,8 @@ npm add --dev typedoc-theme-dark
 
 ![screen2](https://gitlab.com/rockerBOO/typedoc-theme-dark/-/raw/master/resources/screen2.png)
 
+![screen3-light](https://gitlab.com/rockerBOO/typedoc-theme-dark/-/raw/master/resources/screen3-light.png)
+
 ## Usage
 ```
 typedoc ./file.ts --theme ./node_modules/typedoc-theme-dark/dist/dark/
