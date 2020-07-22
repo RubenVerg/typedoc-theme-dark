@@ -2,6 +2,8 @@
 
 Theme Docs: https://typedoc.org/guides/themes/
 
+![screen2](resources/screen2.png)
+
 ## Build
 To make a build:
 
@@ -11,12 +13,10 @@ npm run build
 
 This puts the theme you want to use in `dist/dark/`. 
 
-
 ## Usage
 ```
 typedoc --theme path/to/dist/dark/
 ```
-
 
 Visit https://typedoc.org/ to learn more about TypeDoc.
 
