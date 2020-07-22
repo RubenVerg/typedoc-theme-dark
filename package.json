@@ -1,7 +1,7 @@
 {
   "name": "typedoc-theme-dark",
   "description": "Dark theme for TypeDoc.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://gitlab.com/rockerBOO/typedoc-theme-dark",
   "main": "dist/plugin.js",
   "files": [
