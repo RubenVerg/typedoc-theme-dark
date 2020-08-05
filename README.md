@@ -20,6 +20,15 @@ npm add --dev typedoc-theme-dark
 typedoc ./file.ts --theme ./node_modules/typedoc-theme-dark/dist/dark/
 ```
 
+or add the theme to your tsconfig.json
+```json
+{
+  "typedocOptions": {
+    "theme": "node_modules/typedoc-theme-dark/dist/dark/"
+  }
+}
+```
+
 ## Build
 To make a build:
 
